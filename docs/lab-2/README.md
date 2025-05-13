@@ -1,4 +1,4 @@
-# Command Line Lab with Ollama
+# Open-WebUI Lab
 
 Description goes here.
 
